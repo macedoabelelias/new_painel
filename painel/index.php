@@ -161,7 +161,7 @@ if($linhas > 0){
 
 											<li class="dropdown nav-item  main-header-message ">
 												<a class="new nav-link"  data-bs-toggle="dropdown" href="javascript:void(0);">
-													<small><i class="fa fa-dollar" style="color:#d4fae1;"></i></small>
+													<small><i class="fa fa-money" style="color:#d4fae1;"></i></small>
 													<span class="badge  header-badge" style="background:green"><?php echo $linhas ?></span>
 												</a>
 
@@ -220,7 +220,7 @@ if($linhas > 0){
 
 											<li class="dropdown nav-item  main-header-message ">
 												<a class="new nav-link"  data-bs-toggle="dropdown" href="javascript:void(0);">
-													<small><i class="fa fa-dollar" style="color:#fff3f2;"></i></small>
+													<small><i class="fa fa-money" style="color:#fff3f2;"></i></small>
 													<span class="badge  header-badge" style="background:red"><?php echo $linhas ?></span>
 												</a>
 
@@ -340,7 +340,7 @@ if($linhas > 0){
 
 								<li class="slide <?php echo @$menu_cadastros ?>">
 									<a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0);">
-										<i class="fa fa-plus text-white mt-1"></i>
+										<i class="fa fa-folder-open text-white mt-1"></i>
 									<span class="side-menu__label" style="margin-left: 15px">Cadastros</span><i class="angle fe fe-chevron-right"></i></a>
 									<ul class="slide-menu">
 									
@@ -363,7 +363,7 @@ if($linhas > 0){
 
 								<li class="slide <?php echo @$menu_financeiro ?>">
 									<a class="side-menu__item" data-bs-toggle="slide" href="javascript:void(0);">
-										<i class="fa fa-dollar text-white mt-1"></i>
+										<i class="fa fa-money text-white mt-1"></i>
 									<span class="side-menu__label" style="margin-left: 15px">Financeiro</span><i class="angle fe fe-chevron-right"></i></a>
 									<ul class="slide-menu">
 									
@@ -435,7 +435,7 @@ if($ocultar_mobile == 'Sim'){ ?>
 			<!-- FOOTER -->
 			<div class="main-footer">
 				<div class="container-fluid pt-0 ht-100p">
-					 Copyright © <?php echo date('Y'); ?> <a href="javascript:void(0);" class="text-primary">PORTAL HUGO CURSOS</a>. Todos os direitos reservados
+					 Copyright © <?php echo date('Y'); ?> <a href="javascript:void(0);" class="text-primary"> AM Systems</a>. Todos os direitos reservados
 				</div>
 			</div>			<!-- FOOTER END -->
 
