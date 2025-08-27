@@ -318,7 +318,7 @@ if($linhas > 0){
 								<li class="slide <?php echo @$home ?>">
 									<a class="side-menu__item" href="index.php">
 										<i class="fa fa-home text-white"></i>
-										<span class="side-menu__label" style="margin-left: 15px">Dashboard</span></a>
+										<span class="side-menu__label" style="margin-left: 15px">Home</span></a>
 								</li>
 
 
